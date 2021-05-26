@@ -1,3 +1,0 @@
-Name: Finkel
-Age: 35 
-Favorite Color: Black 
