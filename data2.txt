@@ -1,3 +1,0 @@
-User: Finkel 
-Age:35
-Favorite Color: Purple
